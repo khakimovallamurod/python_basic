@@ -1,0 +1,1 @@
+print('Python basic papkaning dars01.py fayli bu!')
